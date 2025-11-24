@@ -1,5 +1,7 @@
 # 赛道1：弱监督的语义分割
 
+## 通过此链接进入竞赛主页：[Kaggle](https://www.kaggle.com/competitions/semantic-segmentation)
+
 **本题目来自下面的工作，参考代码也来自作者的官方Baseline，感谢！**
 - [**Paraformer: Updating Large-scale High-resolution Geographical Maps from Limited Historical Labels**](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_without_Exact_Guidance_Updating_Large-scale_High-resolution_Land_Cover_Maps_CVPR_2024_paper.pdf)
 - [GitHub原始仓库](https://github.com/LiZhuoHong/Paraformer)
