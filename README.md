@@ -50,7 +50,6 @@
 
 **通过此链接进入竞赛主页：[https://www.kaggle.com/competitions/face-super-resolution](https://www.kaggle.com/competitions/face-super-resolution)**
 
-面向人脸恢复的模型非常多，提供一个Baseline作为快速上手的参考。[Restorerfomer++](https://github.com/wzhouxiff/RestoreFormerPlusPlus)
 
 ## 准备训练数据集FFHQ512（约27.1G）
    - [**Kaggle Dataset**](https://www.kaggle.com/datasets/chelove4draste/ffhq-512x512)
@@ -68,3 +67,4 @@
 
 ## 训练和测试请参考Baseline
 
+面向人脸恢复的模型非常多，提供一个Baseline作为快速上手的参考。[Restorerfomer++](https://github.com/wzhouxiff/RestoreFormerPlusPlus)
