@@ -31,9 +31,9 @@
    - [**谷歌Drive**](https://drive.google.com/file/d/10Ao75MEBlZYADkrXE4YLg6VObvR0b2Dr/view?usp=sharing)
    - [**北外网盘**](https://icloud.bfsu.edu.cn/f/dfd84e4d1c7b4feb9b4d/?dl=1)
    
-2. 下载 Chesapeake_NewYork_dataset 数据集（约19.6GB），解压后保存到 *"./dataset/Chesapeake_NewYork_dataset"* 目录。
-   - [**Kaggle Dataset**](https://www.kaggle.com/datasets/pandawu/chesapeake-newyork-dataset)
-   - [**北外网盘**](https://icloud.bfsu.edu.cn/f/f951f210122643c8816d/?dl=1)
+2. 下载 Chesapeake_NewYork_dataset 数据集（约10.15GB），解压后保存到 *"./dataset/Chesapeake_NewYork_dataset"* 目录。
+   - [**Kaggle Dataset（已更新，请使用最新版本）**](https://www.kaggle.com/datasets/pandawu/chesapeake-newyork-dataset)
+   - [**北外网盘（已更新）**](https://icloud.bfsu.edu.cn/f/110dac36950949daad1c/?dl=1)
 
 3. 配置环境，参考requirements.txt，建议直接在AutoDL上从预安装好pytorch2.0.0的镜像启动。
    
